@@ -1,0 +1,9 @@
+{
+  "name": "zama-vote-backend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy:sepolia": "hardhat run scripts/deploy_voting.js --network sepolia"
+  }
+}
