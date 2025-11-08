@@ -1,4 +1,4 @@
-# ZamaVoteDemo - Fully Homomorphic Encryption (FHE) Voting dApp
+# VoteDemo - Fully Homomorphic Encryption (FHE) Voting dApp
 
 This project is a privacy-preserving voting demo dApp built on the **Zama FHE SDK** concept.
 It demonstrates how encrypted voting and homomorphic computation can be implemented on-chain.
